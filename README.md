@@ -21,13 +21,13 @@ Functions:
 ## Installation
 Make sure [git](https://git-scm.com/) is installed on your system. In bash-shell execute:
 
-    git clone git@github.com:standlab/mtracker.git
+    git clone git@github.com:standlab/prime_numbers.git
     cd mtracker
     pip install .
 
 Or simply:
 
-    pip install git+https://github.com/standlab/mtracker.git#egg=mtracker
+    pip install git+https://github.com/Mishanya666/prime_numbers.git
 
 ## Testing
 You can run tests for the project using the unittest module. Here's how to do it:
