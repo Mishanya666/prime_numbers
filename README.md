@@ -22,7 +22,7 @@ Functions:
 Make sure [git](https://git-scm.com/) is installed on your system. In bash-shell execute:
 
     git clone https//:github.com:standlab/prime_numbers.git
-    cd mtracker
+    cd prime_numbers
     pip install .
 
 Or simply:
