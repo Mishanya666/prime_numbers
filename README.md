@@ -21,7 +21,7 @@ Functions:
 ## Installation
 Make sure [git](https://git-scm.com/) is installed on your system. In bash-shell execute:
 
-    git clone git@github.com:standlab/prime_numbers.git
+    git clone https//:github.com:standlab/prime_numbers.git
     cd mtracker
     pip install .
 
