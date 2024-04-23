@@ -23,7 +23,8 @@ Make sure [git](https://git-scm.com/) is installed on your system. In bash-shell
 
     git clone https://github.com/Mishanya666/prime_numbers
     cd prime_numbers
-    pip install .
+    cd prime_numbers
+    python3 prime_numbers.py
 
 Or simply:
 
